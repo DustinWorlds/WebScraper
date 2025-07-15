@@ -20,10 +20,6 @@ A powerful Python-based tool for discovering subdomains and recursively crawling
   - Automatically cleans and standardizes URLs.
   - Removes fragments and "www." prefixes for consistency.
 
-- **Colorful Banner & Logging**
-  - Displays a clear CLI banner for better user experience.
-  - Detailed console logs to track progress.
-
 - **Export Functionality**
   - Save discovered subdomains and paths to `.txt` files.
 
