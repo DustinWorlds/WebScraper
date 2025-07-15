@@ -61,14 +61,14 @@ python webscraper.py -u example.com --subdomain --path
 #### Subdomain enumeration only
 
 ```bash
-python webscraper.py -u example.com --subdomain
+python WebScraper.py -u example.com --subdomain
 ```
 
 #### Path crawling (with or without subdomains)
 
 ```bash
-python webscraper.py -u example.com --path
-python webscraper.py -u example.com --subdomain --path
+python WebScraper.py -u example.com --path
+python WebScraper.py -u example.com --subdomain --path
 ```
 
 ---
@@ -90,7 +90,7 @@ This tool is intended **for educational and authorized security testing purposes
 
 ## ✉️ Contact
 
-Developed by **Dustin** (2025).
+Developed by **Dustin (DustinWorlds)** (2025).
 
 Feel free to open issues or submit pull requests for feedback, feature requests, or contributions.
 
