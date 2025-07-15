@@ -28,7 +28,7 @@ A powerful Python-based tool for discovering subdomains and recursively crawling
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/WebScraper.git
+git clone https://github.com/DustinWorlds/WebScraper.git
 cd WebScraper
 pip install -r requirements.txt
 ```
